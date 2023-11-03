@@ -4,9 +4,9 @@
 
 # Summary:
 
-I'm 25 years old, and I have been involved in development for the past 1.5 years.
-🚀 I am actively learning and improving myself in the field of frontend development.
-💻 I consider myself a responsible, proactive, and pleasant individual.
+I'm 25 years old, and I have been involved in development for the past 1.5 years. </br>
+🚀 I am actively learning and improving myself in the field of frontend development. </br>
+💻 I consider myself a responsible, proactive, and pleasant individual. </br>
 😊 I have a strong passion for knowledge and a great enthusiasm for learning something new, can`t stay in 1 place. 🌟
 
  [![Telegram Badge](https://img.shields.io/badge/-MagisterUnivers-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MagisterUnivers) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:droniiiandruxa@gmail.com)
