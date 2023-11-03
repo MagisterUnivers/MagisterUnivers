@@ -20,6 +20,20 @@ I'm 25 years old, and I have been involved in development for the past 1.5 years
 
   </div>
 
+<div id="badges">
+    <a href="https://steamcommunity.com/id/MagisterUnivers/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/800px-Steam_icon_logo.svg.png" width="40" height="40" alt="steam" />
+    </a>
+
+  </div>
+
+<div id="badges">
+    <a href="https://discordapp.com/users/161934828403556352" target="_blank">
+      <img src="https://assets.mofoprod.net/network/images/discord.original.jpg" width="40" height="40" alt="discord" />
+    </a>
+
+  </div>
+
 # My Skills
 
 ## Languages and Frameworks:
