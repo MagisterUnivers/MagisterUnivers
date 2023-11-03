@@ -17,7 +17,7 @@ I'm 25 years old, and I have been involved in development for the past 1.5 years
   <tr>
     <td><img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/800px-Steam_icon_logo.svg.png" width="40" height="40" alt="steam"></td>
-    <td><img src="https://assets.mofoprod.net/network/images/discord.original.jpg" width="40" height="40" alt="discord"></td>
+    <td><img src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="40" height="40" alt="discord"></td>
   </tr>
 </table>
   
