@@ -1,5 +1,22 @@
 # Hi there 👋 I'm Andrii
 
+![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
+
+# Summary:
+
+I'm 25 years old, and I have been involved in development for the past 1.5 years. 🚀 I am actively learning and improving myself in the field of frontend development. 💻 I consider myself a responsible, proactive, and pleasant individual. 😊 I have a strong passion for knowledge and a great enthusiasm for learning something new. 🌟
+
+ [![Telegram Badge](https://img.shields.io/badge/-drynkinSerg-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MagisterUnivers) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:droniiiandruxa@gmail.com)
+
+# 🤝 Socials:
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/andrii-shaposhnikov/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+
+  </div>
+
 # My Skills
 
 ## Languages and Frameworks:
