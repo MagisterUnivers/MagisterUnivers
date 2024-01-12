@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Andrii
 
 <a href="(https://www.linkedin.com/in/andrii-shaposhnikov/)" target="_blank" >
-      <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="100%" height="300" alt="thumbnail" />
+      <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="100%" height="100%" alt="thumbnail" />
     </a>
 
 # Summary:
