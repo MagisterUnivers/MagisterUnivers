@@ -6,8 +6,8 @@
 
 # Summary:
 
-I'm 26 years old, and I have been involved in development for the past 1.5 years. </br>
-🚀 I am actively learning and improving myself in the field of frontend development. </br>
+I'm 27 years old, and I have been involved in development for the past 2.5 years. </br>
+🚀 I am actively learning and improving myself in the field of frontend and backend development. </br>
 💻 I consider myself a responsible, proactive, and pleasant individual. </br>
 😊 I have a strong passion for knowledge and a great enthusiasm for learning something new, can`t stay in 1 place. 🌟
 
