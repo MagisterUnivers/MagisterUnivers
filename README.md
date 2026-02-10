@@ -6,7 +6,7 @@
 
 # Summary:
 
-I'm 27 years old, and I have been involved in full-stack development for the past 3 years. </br>
+I'm 27 years old, Full-stack software engineer (TypeScript, React, Node.js), have extensive experience designing, building, and operating production systems end-to-end. </br>
 🚀 I am actively learning and improving myself in the field of frontend and backend development. </br>
 💻 I consider myself a responsible, proactive, and pleasant individual. </br>
 😊 I have a strong passion for knowledge and a great enthusiasm for learning something new, can`t stay in 1 place. 🌟
