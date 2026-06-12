@@ -12,9 +12,9 @@ const andrii = {
   role: "Fullstack Engineer",
   experience: "5+ years",
   code: ["TypeScript", "JavaScript", "SQL"],
-  askMeAbout: ["React", "Node.js", "system design", "why money should be stored in cents 💸"],
-  currentlyLearning: "German (A1 → B1, помогите 😅)",
-  funFact: "I've survived longer in Project Zomboid than most of my side projects"
+  ask_me_about: ["React", "Node.js", "system design", "why money should be stored in cents 💸"],
+  currently_learning: "German (A1 → B1, помогите 😅)",
+  fun_fact: "I've survived longer in Project Zomboid than most of my side projects"
 };
 ```
 
