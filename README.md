@@ -13,7 +13,7 @@ const andrii = {
   experience: "5+ years",
   code: ["TypeScript", "JavaScript", "SQL"],
   ask_me_about: ["React", "Node.js", "system design", "why money should be stored in cents 💸"],
-  currently_learning: "German (A1 → B1, помогите 😅)",
+  currentlyLearning: "German (A1 → B1, помогите 😅)",
   fun_fact: "I've survived longer in Project Zomboid than most of my side projects"
 };
 ```
@@ -30,10 +30,21 @@ const andrii = {
 
 ## 🎮 When I'm not coding
 
-- 🧟 Surviving the apocalypse in **Project Zomboid** (this is how you died...)
+- 🧟 Surviving the apocalypse in **Project Zomboid** — 400+ hours and counting ("This is how you died...")
 - 🌌 Micromanaging galactic empires in **Stellaris** (just one more turn... it's 4 AM)
+- 👽 Missing 99% shots in **XCOM 2** (that's not a bug, that's a feature)
+- 💰 ~~Robbing banks~~ Conducting advanced fintech research in **PAYDAY 2** — 2,800+ hours of, uh, "domain expertise"
 - 🗺️ Exploring Berlin and dreaming about travel
 - 🛠️ Building side projects nobody asked for (but they're cool, I promise)
+
+## 🎲 Fun Facts
+
+- 🏆 **Steam Level 42** — coincidence? I think not. It's literally the answer to life, the universe, and everything
+- ⏳ **13 years on Steam** — my Steam account has more seniority than most startups
+- 📸 **4,000+ screenshots taken** — apparently I document games more thoroughly than some teams document their code
+- 🎯 **3,300+ achievements, 8 perfected games** — yes, I'm the person who reads the entire ticket before closing it
+- 🐛 I debug production issues with the same calm as facing a zombie horde with 2 HP and a frying pan
+- ☕ My code-to-coffee ratio is a closely guarded trade secret
 
 ## 🤝 Socials
 
