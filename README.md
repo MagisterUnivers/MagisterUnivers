@@ -13,7 +13,7 @@ const andrii = {
   experience: "5+ years",
   code: ["TypeScript", "JavaScript", "SQL"],
   ask_me_about: ["React", "Node.js", "system design", "why money should be stored in cents 💸"],
-  currentlyLearning: "German (A1 → B1, помогите 😅)",
+  currently_learning: "German (A1 → B1, помогите 😅)",
   fun_fact: "I've survived longer in Project Zomboid than most of my side projects"
 };
 ```
